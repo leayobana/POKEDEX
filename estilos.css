@@ -1,0 +1,56 @@
+.container{
+	display: flex;
+}
+
+.descripcion{
+	width: 40%;
+	opacity: 0.9;
+	background-color: yellow;
+	box-shadow: 0px 0px 15px black;
+	text-align: center;
+	font-size: 20px;
+	padding: 20px 20px 20px 20px;
+	font-family: arial;
+	border-radius: 20%;
+
+}
+
+.nombres{
+	width: 60%;
+	color: #B40404;
+	font-family: cursive;
+	font-size: 25px;
+}
+
+.descripcion img{
+	width: 200px;
+}
+
+button{
+	font-size: 24px;
+	background-color: yellow;
+	padding: 10px 30px 10px 30px;
+	box-shadow: 3px 3px 3px black;
+	border-radius: 10px;
+}
+body{
+	background-image: url(pokemon.jpg);
+	background-position: left top;
+	color: black;
+	font-family: Arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
